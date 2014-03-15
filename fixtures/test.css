@@ -1,0 +1,6 @@
+/* universal-selector */
+* {
+  color: red;
+  /* star-property-hack */
+  *display: block;
+}
