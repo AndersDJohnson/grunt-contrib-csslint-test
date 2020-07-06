@@ -9,5 +9,6 @@
   "devDependencies": {
     "grunt": "^0.4.4",
     "grunt-contrib-csslint": "git://github.com/gruntjs/grunt-contrib-csslint#9939c79dd6b8f1c5e64ac117be5279f0b8c1dd97"
-  }
+  },
+  "license": "MIT"
 }
